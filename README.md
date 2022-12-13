@@ -28,8 +28,7 @@ It offers features oriented towards gambling and fun. It is still in development
 
 ## Help
 
-If you have any questions regarding my awful coding skills, you can join the [Discord Server][discord].
-Or send a Discord message to me, Squid#9759
+If you want to insult me regarding my awful coding skills, or if you have a question, you can join the [Discord Server][discord].
 
 [website]: https://casino.jasperhdb.com/
 [discord]: https://discord.gg/djs
