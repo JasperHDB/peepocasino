@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.js.org"><img src="https://jasperhdb.com/assets/suzie.PNG" width="200" alt="discord.js" /></a>
+		<a href="https://casino.jasperhdb.com/"><img src="https://jasperhdb.com/assets/suzie.PNG" width="200" alt="suziecasino" /></a>
 	</p>
 	<p>
 		<a href="https://discord.gg/XJ2WRThBG7"><img src="https://img.shields.io/discord/1050800798247948318?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
