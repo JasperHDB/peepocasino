@@ -18,8 +18,8 @@ It offers features oriented towards gambling and fun. It is still in development
 
 - 🎰  **Slots** - Play slots
 - 🎲  **Dice** - Roll the dic
-- 🎰  **Coinflip** - Flip a coin
-- 🎰  **Roulette** - Play roulette
+- 💰  **Coinflip** - Flip a coin
+- ⚪  **Roulette** - Play roulette
 
 ## Links
 
